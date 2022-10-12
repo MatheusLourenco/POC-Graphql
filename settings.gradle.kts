@@ -1,1 +1,1 @@
-rootProject.name = "poc"
+rootProject.name = "graphql-webflux"
