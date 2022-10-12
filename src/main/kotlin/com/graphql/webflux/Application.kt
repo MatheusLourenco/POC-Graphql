@@ -1,4 +1,4 @@
-package com.graphql.poc
+package com.graphql.webflux
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
